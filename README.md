@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @17fun
 - 有情趣的小作品
-- [情侣飞行棋](17fei.fun)
-- [妹子图](meizitu.17fei.fun)
+- [情侣飞行棋](https://17fei.fun)
+- [妹子图](https://meizitu.17fei.fun)
 - 📫 How to reach me  VX:@wbot10
  
  
